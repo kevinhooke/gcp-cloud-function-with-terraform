@@ -1,0 +1,14 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "gcp-example-cloud-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevinhooke",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.4.4"
+  }
+}
