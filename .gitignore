@@ -1,2 +1,4 @@
 iac/.terraform/
+iac/.terraform.*
+iac/terraform.tfstate*
 src/node_modules/
